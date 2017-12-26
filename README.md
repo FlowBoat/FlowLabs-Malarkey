@@ -18,11 +18,16 @@
 </p>
 
 <p align="center">
+    <a href="#related-workd">Related Works</a> •
     <a href="#learning-goals">Learning Goals</a> •
     <a href="#engineering-goals">Engineering Goals</a> •
     <a href="#ux-goals">UX Goals</a> •
     <a href="#license">License</a>
 </p>
+
+## Related Works
+
+[Learning to Generate Reviews and Discovering Sentiment](https://arxiv.org/abs/1704.01444) is a great paper by [OpenAI](https://openai.com/), which builds upon the principles used in [Representation Learning](https://arxiv.org/abs/1206.5538) (Bengio, 2013) in an exciting new way. These two papers inspired me to do this project.
 
 ## Learning Goals
 * Generative Recurrent Neural Networks
