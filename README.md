@@ -35,9 +35,9 @@
 * Chose between PyTorch and TensorFlow
 
 ## Engineering Goals
-* Build an unsupervised generative network (Steven) to design realistic tweets given a beginning
-* Train a sister network (Sally) to classify tweets using the feature vectors of the generative network
-* Use Steven and a third sibling network (Simon) to create an adversarial network pair by using both the generated data and real tweets
+* Build an unsupervised generative network to create realistic tweets given a prompt
+* Train a sister network to classify tweets using the feature vectors of the generative network
+* Use Steven and a third sibling network to create an adversarial network pair by using both the generated data and real tweets
 
 ## UX Goals
 * Build a robust and user friendly way to collect human data on immeasurable features (ie. truth vs. lies, malarkey meter, funniness)
